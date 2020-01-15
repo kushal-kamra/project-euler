@@ -1,0 +1,24 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "Project Euler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushal-kamra/project-euler.git"
+  },
+  "author": "Kushal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushal-kamra/project-euler/issues"
+  },
+  "homepage": "https://github.com/kushal-kamra/project-euler#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0"
+  }
+}
